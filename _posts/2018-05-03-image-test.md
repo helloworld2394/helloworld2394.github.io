@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Markdown and HTML
+title: Image TEST
 ---
 
-# TEST!
 Test Image<br>
 ![IMAGE]({{site.url}}assets/img/testim.jpg)
