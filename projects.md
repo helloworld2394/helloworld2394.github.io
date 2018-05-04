@@ -8,4 +8,4 @@ feature-img: "assets/img/code_prog.jpg"
 ## HDF5 Dataset Maker(for Unsupervised Learning)
 <br>
 2018-04:
-## 64x64 BEGAN
+### 64x64 BEGAN
