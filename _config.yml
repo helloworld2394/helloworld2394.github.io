@@ -13,7 +13,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p><b>Hojune Yoon</b><br>I am a middle school student who is interested in deep learning.</p>
+     <p><b>Hojune Yoon</b><br>I am a middle school student who is interested in deep learning.<br><u>This site is under testing.</u></p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
